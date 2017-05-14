@@ -15,4 +15,4 @@ $styles = [
 
 $document->head->stylesheets($styles);
 
-echo $document->createPage();
+$document->createPage();

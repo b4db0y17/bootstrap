@@ -19,7 +19,7 @@ class bootstrap {
 
         $page = $this->page->getPage($title, $styles);
 
-        return $page;
+        echo $page;
 
     }
 
