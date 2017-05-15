@@ -1,7 +1,7 @@
 <?php
 
-include_once './resources/head.php';
-include_once './resources/page.php';
+include_once 'resources/head.php';
+include_once 'resources/page.php';
 
 class bootstrap {
 
